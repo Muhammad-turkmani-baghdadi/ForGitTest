@@ -10,6 +10,8 @@ namespace ForGitTests
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("hello this update for git");
+            Console.WriteLine("this update is form github.");
+            
         }
     }
 }
